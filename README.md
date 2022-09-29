@@ -22,5 +22,5 @@ ver. 1.0
 ## For programmers
 It's a simple .NET Windows application written long time ago in Windows Forms. Initially written in .NET 2.0, but now upgraded to .NET 4.8.
 
-## Contant
+## Contact
 neveride@gmail.com
