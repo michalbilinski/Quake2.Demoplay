@@ -1,0 +1,7 @@
+ver. 0.1 - 0.3
+ * changelog vanished, if someone has it please send it to neveride@gmail.com
+ver. 0.4
+ * added Explorer tab within which one can:
+   - load demos from a selected directory, view basic info and play demos from the list
+ver. 1.0
+ * added Q2PRO support

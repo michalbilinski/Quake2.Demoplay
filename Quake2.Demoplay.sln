@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quake2.Demoplay.App", "Quake2.Demoplay.App\Quake2.Demoplay.App.csproj", "{78D100F5-2482-47F4-9B42-25B049C9AFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D100F5-2482-47F4-9B42-25B049C9AFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D100F5-2482-47F4-9B42-25B049C9AFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D100F5-2482-47F4-9B42-25B049C9AFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D100F5-2482-47F4-9B42-25B049C9AFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E6858E-DAAF-45CD-A418-B09C99847704}
+	EndGlobalSection
+EndGlobal
