@@ -178,7 +178,18 @@ namespace Quake2.Demoplay.App
 			{
 				try
 				{
-					return settings["q2exe"].Substring(0, settings["q2exe"].LastIndexOf("\\"))+"\\baseq2\\demos";
+					if (!File.Exists(ConfigReader.Q2exe))
+                    {
+                        return "";
+                    }
+
+                    var demosdirPath = settings["q2exe"].Substring(0, settings["q2exe"].LastIndexOf("\\")) + "\\baseq2\\demos";
+
+					// Creates all directories and subdirectories in the specified path unless they already exist.
+					var di = new DirectoryInfo(demosdirPath);
+					di.Create();
+
+					return demosdirPath;
 				}
 				catch
 				{
