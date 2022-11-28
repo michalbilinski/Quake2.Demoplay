@@ -5,5 +5,5 @@ ver. 0.4
    - load demos from a selected directory, view basic info and play demos from the list
 ver. 1.0
  * added Q2PRO support
-ver. 1.1.
+ver. 1.1
  * the program will create directory baseq2/demos if it does not exist
