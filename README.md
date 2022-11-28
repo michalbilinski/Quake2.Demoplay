@@ -18,6 +18,9 @@ ver. 0.4
    
 ver. 1.0
  * added Q2PRO support
+ 
+ver. 1.1
+ * the program will create directory baseq2/demos if it does not exist
 
 ## For programmers
 It's a simple .NET Windows application written long time ago in Windows Forms. Initially written in .NET 2.0, but now upgraded to .NET 4.8.
